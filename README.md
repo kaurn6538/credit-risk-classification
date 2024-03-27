@@ -88,7 +88,7 @@ Recall Scores: 0.99/ 0.99
 
 ## Summary
 
-Based on the findings of Machine Learning Model 1 compared to Machine Learning Model 2, I recommend using Model 1, Logistic Regression wit Resampled Data.
+Based on the findings of Machine Learning Model 1 compared to Machine Learning Model 2, I recommend using Model 2, Logistic Regression with Resampled Data.
 
 Since the Logistic Regression with Resampled Data model has same accuracy but higher recall scores, this model performs the best.
 
