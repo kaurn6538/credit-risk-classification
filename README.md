@@ -76,21 +76,21 @@ Accuracy: 99.0%
 
 Precision: 1.00/ 0.84
 
-Recall Scores: 0.99/ 0.99
+Recall Scores: 0.99/ 0.94
 
 Machine Learning Model 2 - Logistic Regression w/ Resampled Data:
 
-Accuracy: 99.6%
+Accuracy: 99.0%
 
-Precision: 1.00/ 0.86
+Precision: 1.00/ 0.84
 
-Recall Scores: 0.99/ 0.94
+Recall Scores: 0.99/ 0.99
 
 ## Summary
 
-Based on the findings of Machine Learning Model 1 compared to Machine Learning Model 2, I recommend using Model 1, Logistic Regression without Resampled Data.
+Based on the findings of Machine Learning Model 1 compared to Machine Learning Model 2, I recommend using Model 1, Logistic Regression wit Resampled Data.
 
-Since the Logistic Regression without Resampled Data model has same accuracy and higher recall scores, this model performs the best.
+Since the Logistic Regression with Resampled Data model has same accuracy but higher recall scores, this model performs the best.
 
 The higher recall score means this model is better at identifying positive and negative examples.
 
